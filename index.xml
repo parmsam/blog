@@ -6,7 +6,7 @@
     <description>Recent content on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Using Blogdown to start a blog</title>
       <link>http://example.org/post/first-blog-post/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/post/first-blog-post/</guid>
-      <description>Using Blogdown to start a blog Hello, World! This is my first blog post. This blog is built using the Blogdown R package. The Bookdown book was used to learn how to use the package.
+      <description>Using R Blogdown to start a Blog Hello, World! This is my first blog post. This blog is built using the R Blogdown package. The Bookdown book was used to learn how to use the package.
 Blogdown makes it very easy for R programmers to build a personal website for a portfolio and/or blog. If you&amp;rsquo;re an avid R user and don&amp;rsquo;t have a personal website or blog, you need to check out Yihui&amp;rsquo;s book!</description>
     </item>
     
