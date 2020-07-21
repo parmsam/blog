@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag_02 on Sam&#39;s Blog</title>
+    <link>/tags/tag_02/</link>
+    <description>Recent content in tag_02 on Sam&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tag_02/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Blogdown to start a blog</title>
+      <link>/post/first-blog-post/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first-blog-post/</guid>
+      <description>Using Blogdown to start a blog Hello, World! This is my first blog post. This blog is built using the Blogdown R package. The Bookdown book was used to learn how to use the package.
+Blogdown makes it very easy for R programmers to build a personal website for a portfolio and/or blog. If you&amp;rsquo;re an avid R user and don&amp;rsquo;t have a personal website or blog, you need to check out Yihui&amp;rsquo;s book!</description>
+    </item>
+    
+  </channel>
+</rss>
