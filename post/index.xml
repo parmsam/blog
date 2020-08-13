@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sam&#39;s Blog</title>
-    <link>/post/</link>
+    <link>http://example.org/post/</link>
     <description>Recent content in Posts on Sam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to Learn R</title>
-      <link>/post/second-blog-post/</link>
+      <link>http://example.org/post/second-blog-post/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/second-blog-post/</guid>
+      <guid>http://example.org/post/second-blog-post/</guid>
       <description>How to Learn R This article was originally posted by me on Medium on 2020-05-20.
 It can be challenging to learn a new programming language, especially when you are starting from scratch with no prior experience. The intent of this article is to provide a brief overview of resources that you can use to learn R. I feel it’s helpful to have with diverse streams of information when learning something new.</description>
     </item>
     
     <item>
       <title>Using Blogdown to start a blog</title>
-      <link>/post/first-blog-post/</link>
+      <link>http://example.org/post/first-blog-post/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/first-blog-post/</guid>
+      <guid>http://example.org/post/first-blog-post/</guid>
       <description>Using R Blogdown to start a Blog Hello, World! This is my first blog post. This blog is built using the R Blogdown package. The Blogdown book was used to learn how to use the package.
 Blogdown makes it very easy for R programmers to build a personal website for a portfolio and/or blog. If you&amp;rsquo;re an avid R user and don&amp;rsquo;t have a personal website or blog, you need to check out Yihui&amp;rsquo;s book (see link above)!</description>
     </item>
