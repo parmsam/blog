@@ -1,0 +1,14 @@
+---
+title: "About me"
+description: |
+  Hello! My name is Sam. I'm currently a Data Analyst and Computer Science Student (MCS-DS). 
+  Visit my Github Pages site for my public [projects](https://parmsam.github.io/projects.html) or [Github](https://github.com/parmsam) for code I've used.
+  <br><br>
+  This blog is meant to share my thoughts, my work, or some things I've learned along the way. Hope you enjoy and learn something new.
+  <br><br>
+  Most posts will also be published on my Medium account [here](https://parmsam.medium.com/).
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

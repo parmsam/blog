@@ -1,0 +1,18 @@
+name: "sam_blog"
+title: "Data Breadcrumbs"
+description: |
+  Data Breadcrumbs
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-medium-m
+      href: https://parmsam.medium.com/
+    - icon: fab fa-github
+      href: https://github.com/parmsam
+    - icon: fas fa-user
+      href: https://parmsam.github.io
+output: distill::distill_article
