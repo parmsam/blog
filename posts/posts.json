@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Hello World!",
-    "description": "Welcome to my blog, Data Breadcrumbs. Hope you enjoy \nreading my posts!",
+    "description": "Welcome to my blog, Data Breadcrumbs. Hope you enjoy \nreading my posts! Click on the tab above to learn more about me.",
     "author": [
       {
         "name": "Sam Parmar",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-16T23:27:04-05:00",
+    "last_modified": "2020-12-16T23:55:03-05:00",
     "input_file": "welcome.utf8.md"
   }
 ]
