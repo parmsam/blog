@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About me",
+      "description": "My name is Sam. Currently a Data Analyst and Computer Science Student (MCS-DS). \nVisit my website for more info and my public projects.\nSee <b>user icon<\/b> on the upper left or click [here](https://parmsam.github.io).\n<br><br>\nThis blog is meant to collect collect some of my thoughts and learnings. Hope you enjoy it or learn something.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-16T23:24:13-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Data Breadcrumbs",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-16T23:15:44-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

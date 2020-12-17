@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Hello World!",
+    "description": "Welcome to my blog, Data Breadcrumbs. Hope you enjoy \nreading my posts!",
+    "author": [
+      {
+        "name": "Sam Parmar",
+        "url": "https://parmsam.github.io/"
+      }
+    ],
+    "date": "2020-12-16",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-16T23:27:04-05:00",
+    "input_file": "welcome.utf8.md"
+  }
+]
