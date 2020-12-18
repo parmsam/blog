@@ -4,6 +4,7 @@ favicon: images/bread-white.png
 description: |
   Data Breadcrumbs
 output_dir: "_site"
+base_url: https://databreadcrumbs.com/
 navbar:
   logo: images/bread-white.png
   search: true
@@ -18,4 +19,10 @@ navbar:
       href: https://github.com/parmsam
     - icon: fas fa-user
       href: https://parmsam.github.io
+collections:
+  posts:
+    disqus: 
+      shortname: https-databreadcrumbs-com
+      hidden: true
+    share: [twitter, facebook, linkedin]
 output: distill::distill_article
