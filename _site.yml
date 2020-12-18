@@ -1,9 +1,12 @@
 name: "sam_blog"
 title: "Data Breadcrumbs"
+favicon: images/bread-white.png
 description: |
   Data Breadcrumbs
 output_dir: "_site"
 navbar:
+  logo: images/bread-white.png
+  search: true
   right:
     - text: "Home"
       href: index.html
