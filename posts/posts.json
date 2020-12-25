@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-24-thoughts-on-advent-of-code-2020/",
+    "title": "Thoughts on Advent of Code 2020",
+    "description": "Quick reflection on AoC 2020 puzzles",
+    "author": [
+      {
+        "name": "Sam Parmar",
+        "url": "https://parmsam.github.io/"
+      }
+    ],
+    "date": "2020-12-24",
+    "categories": [],
+    "contents": "\nNote this article is a work in progress\nWhat is Advent of Code?\nAdvent of Code is an annual programming challenge created by Eric Wastl. It starts on December 1 of each year, releasing a unique puzzle daily until December 25. You can use any programming language to solve the problems. There are usually 25 unique puzzles in each annual set, with two parts per puzzle.\nLearn more about the challenge at https://adventofcode.com/2020/about. This blog post will collect my thoughts as I complete the 2020 puzzles in R. This repo has all my inputs and code.\nWho should do the challenge?\nFolks with prior knowledge and basic skills in any programming language. It is great opportunity to test and refine your skills. The contest is, in my opinion, great for folks with Pandas + Numpy experience in Python or Tidyverse experience in R.\nHow did I do?\nDay\nPart One\nPart Two\nDay 1: Report Repair\n⭐️\n⭐️\nDay 2: Password Philosophy\n⭐️\n⭐️\nDay 3: Toboggan Trajectory\n⭐️\n\nDay 4: Passport Processing\n⭐️\n⭐️\nDay 5: Binary Boarding\n⭐️\n⭐️\nDay 6: Custom Customs\n⭐️\n⭐️\nDay 7: Handy Haversacks\n️\n️\nWhat was my approach?\nDay 1:\nDay 2:\nDay 3:\nDay 4: Used combination of strsplit() and unnest() to get character vector then split it into rows. Understanding of spread() and gather() helped with this exercise. Just used filter() to apply Part B passport conditions. Understanding of regex makes this straightforward. Boundary escape characters were needed in some filters.\nDay 5: Used regex to get flight row (FB) and flight column position strings (BR) into seperate variables. Custom function needed reminded me of binary search. Used purrr map() function to apply custom function on relevant flight row or flight column. Then arrange(), rbind(), cbind(), and filter() helped identify missing seat, by just sorting seat ID numbers adding expected seat ID numbers column and filtering for difference.\nDay 6: The purrr map() function made this exercise straightforward. Got to use more map2 to pass multiple parameters through a custom function to get questions where everyone answered yes in each group.\nAny other thoughts?\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-25T12:36:39-06:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Hello World!",
     "description": "Welcome to my blog, Data Breadcrumbs. Hope you enjoy \nreading my posts! Click on the tab above to learn more about me.",
@@ -9,11 +26,11 @@
         "url": "https://parmsam.github.io/"
       }
     ],
-    "date": "2020-12-18",
+    "date": "2020-12-24",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-18T00:31:47-05:00",
+    "last_modified": "2020-12-24T20:02:37-06:00",
     "input_file": {}
   }
 ]
