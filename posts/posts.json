@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-01-01-my-favorite-blog-posts-of-2020/",
     "title": "My Favorite Blog Posts of 2020",
-    "description": "On data science with self help",
+    "description": "On data science with a bit of self help",
     "author": [
       {
         "name": "Sam Parmar",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\nPaul Graham’s Blog — Life is Short\nThe first essay I read from Paul Graham (co-founder of Y Combinator). Encourage anyone reading to check this post out. It’s a short essay but it’s packed full of experience-based insight. One of my favorite parts — “Relentlessly prune bullshit, don’t wait to do things that matter, and savor the time you have. That’s what you do when life is short.” -Paul Graham\nSuzan Baert’s Blog — Data Wrangling Series (Parts 1-4)\nFirst stumbled upon this four blog post series in late 2019. I wish I had earlier. It provides a great overview of data wrangling with dplyr - from basic into advanced. I’ve revisited it on a several occasions in 2020. Suzan did a great job explaining functions like select_if(), mutate_if(), mutate_at(), and filter_if(). Some of the best explanations I’ve read of advanced tidyverse functions. The posts build upon each other.\nRStudio Blog — (Re-)introducing Distill for R Markdown by Alison Hill and JJ Allaire\nThis article introduced me to one of my favorite packages of 2020 and led me to start my own Distill blog. Specifically, I love the site-wide search functionality, favicon support, and overall aesthetic. Post provides and overview of the package features.\nShamindras Shotriya’s Blog — Upgrading Distill Blog Settings\nAwesome article that showed me how to take my Distill Blog to the next level. It shows you how to setup Disqus comments, Google Analytics, Blog Post Sharing options, and Change/Corrections tracking. Shamindras did a great job documenting his process.\nRebecca Barter’s Blog — Learn to purrr\nThis blog post taught me more about the Purrr package in R. Great resource to learn more about the package’s main functions. I’ve started using more map() functions as a direct result of this article.\nExtra\nRStudio Blog — Winners of the 2nd Annual Shiny Contest\nHad to throw this in there. My submission made it to the runner up list. It was my first R Shiny project for public use. Great learning experience since I had only been using R Shiny for less than one year. I encourage anyone reading to check out the other winners. The other submissions were absolutely amazing.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-01T15:40:26-05:00",
+    "last_modified": "2021-01-01T17:21:55-05:00",
     "input_file": {}
   },
   {
