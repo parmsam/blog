@@ -14,11 +14,41 @@
     <generator>Distill</generator>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>My Favorite Blog Posts of 2020</title>
+      <title>Cyberpunk 2077: Bugs that Outshine Potential Greatness 🐛</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-01-01-cyberpunk-2077-bugs-that-outshine-potential-greatness</link>
+      <description>My thoughts on CD Projekt Red’s latest release</description>
+      <category>thoughts</category>
+      <category>gaming</category>
+      <guid>https://databreadcrumbs.com/posts/2021-01-01-cyberpunk-2077-bugs-that-outshine-potential-greatness</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using Distill in R Markdown to Start a Blog 🏗️</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-01-01-how-i-built-my-blog-using-distill</link>
+      <description>Quick steps to start a blog in R</description>
+      <category>tutorial</category>
+      <category>r markdown</category>
+      <guid>https://databreadcrumbs.com/posts/2021-01-01-how-i-built-my-blog-using-distill</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Favorite Blog Posts of 2020 🐐</title>
       <dc:creator>Sam Parmar</dc:creator>
       <link>https://databreadcrumbs.com/posts/2021-01-01-my-favorite-blog-posts-of-2020</link>
       <description>On data science with a bit of self help</description>
+      <category>favorites</category>
       <guid>https://databreadcrumbs.com/posts/2021-01-01-my-favorite-blog-posts-of-2020</guid>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>My Favorite Purchase of 2020🏅</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-01-01-the-kindle-paperwhite-my-favorite-purchase-of-2020</link>
+      <description>Thoughts on the Kindle Paperwhite</description>
+      <category>favorites</category>
+      <guid>https://databreadcrumbs.com/posts/2021-01-01-the-kindle-paperwhite-my-favorite-purchase-of-2020</guid>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
     </item>
     <item>

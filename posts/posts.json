@@ -1,7 +1,47 @@
 [
   {
+    "path": "posts/2021-01-01-cyberpunk-2077-bugs-that-outshine-potential-greatness/",
+    "title": "Cyberpunk 2077: Bugs that Outshine Potential Greatness 🐛",
+    "description": "My thoughts on CD Projekt Red’s latest release",
+    "author": [
+      {
+        "name": "Sam Parmar",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "thoughts",
+      "gaming"
+    ],
+    "contents": "\nPublished on Medium December 16, 2020.\nBy far, Cyberpunk 2077 was the most anticipated video game of 2020 and perhaps this decade. From the advertising to the top notch PR, the game was extremely hyped. The numerous delays and mandatory crunch indicated that development was being rushed. However, many fans, including myself, believed that CD Projekt Red would pull through and release a phenomenal game.\nFull disclosure, I played the game on my PC build which has 32 GB RAM, AMD Ryzen 3900x, and an EVGA RTX2070. I was able to play the game on the high-end settings with ray tracing, similar to the quality spec (RT High) that was tweeted prior to release. This is relevant because CD Projekt Red supposedly focused on optimizing the game for PC.\nStory and Bugs\nThe side missions are absolutely amazing. The writing and world building is great, when hilarious glitches don’t interfere with the immersion (floating objects or invisible objects for example). That brings up an essential point. This is the glitchiest video game I have ever played. I encountered lighting bugs, enemy path bugs, and even teleport bugs in my playthrough (see links for video clips). There were two major side mission bugs that I experienced on the Killing in the Name mission and the I Fought the Law mission. It is unfortunate that CD Projekt Red previously stated that the game would be ready for release on PC AND console because it is only worse on console, based numerous reporting.\nIt seems that the glitches and bugs have become an unintended feature of the game for many, with solid memes. The glitches sometimes distract from the amazing acting and storytelling. These technical issues have marred the game and resulted in a major drop in stock value. It is a release disaster — a great case study for other video game studios to learn from.\nOne could say, the game is still memorable due to the story and world building, however I felt a lack of depth in the endings, relative to the rest of the game. Honestly, the endings felt rushed. In summary, the video game shows glimpses of greatness which are obscured by technical issues. With more development (1–2 months) and more attention to consoles, they might have turned it around.\nGoing forward\nUnfortunately, the situation is probably one of the worst possible scenarios for CD Projekt Red’s Cyberpunk 2077. The video game was reportedly unplayable for many on last gen consoles, with Sony issuing many refunds.\nI do wonder if CD Projekt Red will take the No Man’s Sky approach and just quietly fix the numerous game bugs. They have admitted problems with project management and have denied that the bad release was due to staffing issues. They have not disclosed what organizational changes will be made. Additionally, folks have asked if they will offer a free DLC to make up for the mistakes. The decision has not been made on a free DLC. Only time will tell what impact this disastrous release will have on the game studio.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-01T18:26:30-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-01-how-i-built-my-blog-using-distill/",
+    "title": "Using Distill in R Markdown to Start a Blog 🏗️",
+    "description": "Quick steps to start a blog in R",
+    "author": [
+      {
+        "name": "Sam Parmar",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "tutorial",
+      "r markdown"
+    ],
+    "contents": "\nPublished on Medium December 17, 2020.\nI previously read this RStudio blog post on the Distill package earlier this month. The aesthetic and features were impressive to me (particularly site-wide search). Had some time to try it out today. Here are the short and simple steps I took to start a blog using Distill.\nNote: this article assumes you have some prior experience with R Markdown. Skim over this book to learn more about R Markdown.\nSkimmed the official website for Distill and page on creating a blog.\nInstalled the package: install.packages('distill')\nOpened a New Project in RStudio to start a new Distill Blog. See official page for screenshot.\nKnit the R markdown files to see how the default looked.\nAdjusted R markdown files as needed (added icons, added first post, and updated about tab). Knit files again.\nPushed the _site sub-directory files produced after Knitting to my blog repo on Github. Repo should be setup to publish onto Github Pages in repo settings.\nDone! Blog updated.\nSimple as that. Here is what it looks like right now. Hope this is helpful.\nFollow up: Went through Shamindra Shotriya’s blog post to take my Distill blog to the next level.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-01T18:27:57-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-01-01-my-favorite-blog-posts-of-2020/",
-    "title": "My Favorite Blog Posts of 2020",
+    "title": "My Favorite Blog Posts of 2020 🐐",
     "description": "On data science with a bit of self help",
     "author": [
       {
@@ -10,10 +50,31 @@
       }
     ],
     "date": "2021-01-01",
-    "categories": [],
+    "categories": [
+      "favorites"
+    ],
     "contents": "\nPaul Graham’s Blog — Life is Short\nThe first essay I read from Paul Graham (co-founder of Y Combinator). Encourage anyone reading to check this post out. It’s a short essay but it’s packed full of experience-based insight. One of my favorite parts — “Relentlessly prune bullshit, don’t wait to do things that matter, and savor the time you have. That’s what you do when life is short.” -Paul Graham\nSuzan Baert’s Blog — Data Wrangling Series (Parts 1-4)\nFirst stumbled upon this four blog post series in late 2019. I wish I had earlier. It provides a great overview of data wrangling with dplyr - from basic into advanced. I’ve revisited it on a several occasions in 2020. Suzan did a great job explaining functions like select_if(), mutate_if(), mutate_at(), and filter_if(). Some of the best explanations I’ve read of advanced tidyverse functions. The posts build upon each other.\nRStudio Blog — (Re-)introducing Distill for R Markdown by Alison Hill and JJ Allaire\nThis article introduced me to one of my favorite packages of 2020 and led me to start my own Distill blog. Specifically, I love the site-wide search functionality, favicon support, and overall aesthetic. Post provides and overview of the package features.\nShamindras Shotriya’s Blog — Upgrading Distill Blog Settings\nAwesome article that showed me how to take my Distill Blog to the next level. It shows you how to setup Disqus comments, Google Analytics, Blog Post Sharing options, and Change/Corrections tracking. Shamindras did a great job documenting his process.\nRebecca Barter’s Blog — Learn to purrr\nThis blog post taught me more about the Purrr package in R. Great resource to learn more about the package’s main functions. I’ve started using more map() functions as a direct result of this article.\nExtra\nRStudio Blog — Winners of the 2nd Annual Shiny Contest\nHad to throw this in there. My submission made it to the runner up list. It was my first R Shiny project for public use. Great learning experience since I had only been using R Shiny for less than one year. I encourage anyone reading to check out the other winners. The other submissions were absolutely amazing.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-01T17:21:55-05:00",
+    "last_modified": "2021-01-01T18:25:52-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-01-the-kindle-paperwhite-my-favorite-purchase-of-2020/",
+    "title": "My Favorite Purchase of 2020🏅",
+    "description": "Thoughts on the Kindle Paperwhite",
+    "author": [
+      {
+        "name": "Sam Parmar",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-01",
+    "categories": [
+      "favorites"
+    ],
+    "contents": "\nPublished on Medium November 30, 2020.\n👋Since it’s Cyber Monday, I figured I would reflect on my best purchase so far this year. Personally, I have three criteria for a good purchase: use, function, and comfort. The Paperwhite with the waterproof case checks all the boxes for me and does so much more. I love the device (this article is not sponsored by Amazon).\nHere’s a list of the features that I’ve taken advantage of:\n💡E-ink display for less eye fatigue compared to reading from a phone or laptop.\n✏️Custom font style, font size, and line spacing according to my preference.\n🔦Backlight to read during low light times.\n🔎Search to find a location in a book based on a keyword.\n👀Word definition by selecting the word. No need to pull out the dictionary or phone anymore.\n✍️Kindle highlights and notes while reading. Combined with Amazon cloud sync is great for reflection after reading.\n⏯️ Page sync to continue where I left off across devices. Page is synced on the cloud.\n🦹Kindle X-Ray to learn more and see what other people think about the book/page.\n📚Library ebook services to read Kindle books for free. Great during this COVID-19 pandemic.\n💰Affordable prices for Kindle books across the Amazon Store. Generally, Kindle books are cheaper than physical books.\n✌️Similar features on the Kindle App. Here is a tour from Amazon on some of those features.\n⌛Hope this is educational and encourages folks to try this little device out. I think it’s great for anyone looking to build a daily reading habit. Get out there and start reading more.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-01T18:27:30-05:00",
     "input_file": {}
   },
   {
@@ -30,7 +91,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-25T14:05:51-05:00",
+    "last_modified": "2021-01-01T17:53:41-05:00",
     "input_file": {}
   }
 ]
