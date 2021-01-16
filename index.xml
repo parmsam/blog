@@ -12,7 +12,17 @@
       <link>https://databreadcrumbs.com/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Emoji Search Table 😁</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-01-15-emoji-search</link>
+      <description>Quickly build a search table for emojis in R Markdown</description>
+      <category>tutorial</category>
+      <category>r markdown</category>
+      <guid>https://databreadcrumbs.com/posts/2021-01-15-emoji-search</guid>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cyberpunk 2077: Bugs that Outshine Potential Greatness 🐛</title>
       <dc:creator>Sam Parmar</dc:creator>
