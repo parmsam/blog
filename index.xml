@@ -12,7 +12,17 @@
       <link>https://databreadcrumbs.com/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Parler Metadata in Leaflet</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-01-16-parler-metadata</link>
+      <description>Interactive cluster map and timeline of GPS data</description>
+      <category>metadata</category>
+      <category>maps</category>
+      <guid>https://databreadcrumbs.com/posts/2021-01-16-parler-metadata</guid>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Emoji Search Table 😁</title>
       <dc:creator>Sam Parmar</dc:creator>
