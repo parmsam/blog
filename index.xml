@@ -17,7 +17,7 @@
       <title>R Cheatsheets Search Table</title>
       <dc:creator>Sam Parmar</dc:creator>
       <link>https://databreadcrumbs.com/posts/2021-03-12-r-cheatsheets-search-table</link>
-      <description>Easy search of cheatsheets via interactive table</description>
+      <description>interactive table of cheatsheet tags and links</description>
       <category>r cheatsheets</category>
       <category>DT package</category>
       <category>r markdown</category>
