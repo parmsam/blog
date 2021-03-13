@@ -12,7 +12,18 @@
       <link>https://databreadcrumbs.com/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sat, 16 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>R Cheatsheets Search Table</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-03-12-r-cheatsheets-search-table</link>
+      <description>Easy search of cheatsheets via interactive table</description>
+      <category>r cheatsheets</category>
+      <category>DT package</category>
+      <category>r markdown</category>
+      <guid>https://databreadcrumbs.com/posts/2021-03-12-r-cheatsheets-search-table</guid>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Parler Metadata in Leaflet</title>
       <dc:creator>Sam Parmar</dc:creator>
@@ -30,6 +41,7 @@
       <description>Quickly build a search table for emojis in R Markdown</description>
       <category>tutorial</category>
       <category>r markdown</category>
+      <category>DT package</category>
       <guid>https://databreadcrumbs.com/posts/2021-01-15-emoji-search</guid>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
     </item>
