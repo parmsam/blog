@@ -12,7 +12,19 @@
       <link>https://databreadcrumbs.com/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Mix Things Up: A Random Workout Plan Generator</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-04-07-mix-things-up</link>
+      <description>Shiny App to build simple random workouts from list of exercises</description>
+      <category>shiny</category>
+      <category>gt</category>
+      <category>bslib</category>
+      <category>app in a week</category>
+      <guid>https://databreadcrumbs.com/posts/2021-04-07-mix-things-up</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>R Cheatsheets Search Table</title>
       <dc:creator>Sam Parmar</dc:creator>
@@ -31,6 +43,7 @@
       <description>Interactive cluster map and timeline of GPS data</description>
       <category>metadata</category>
       <category>maps</category>
+      <category>leaflet</category>
       <guid>https://databreadcrumbs.com/posts/2021-01-16-parler-metadata</guid>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
     </item>
