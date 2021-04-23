@@ -12,7 +12,18 @@
       <link>https://databreadcrumbs.com/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>What’s Sam reading?</title>
+      <dc:creator>Sam Parmar</dc:creator>
+      <link>https://databreadcrumbs.com/posts/2021-04-22-whats-sam-reading</link>
+      <description>simple reading list webpage built using List.js</description>
+      <category>reading list</category>
+      <category>listjs</category>
+      <category>webpage</category>
+      <guid>https://databreadcrumbs.com/posts/2021-04-22-whats-sam-reading</guid>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mix Things Up: A Random Workout Plan Generator</title>
       <dc:creator>Sam Parmar</dc:creator>
